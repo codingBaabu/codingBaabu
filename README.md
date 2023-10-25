@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## :rocket: ABOUT ME
+# H E L L O - W O R L D
+## :earth_americas: ABOUT ME :earth_americas:
 I am **Ravin Panday**, a Guyanese **Web Developer** (specializing in front-end web-technologies) who recently completed a Bachelor's degree in **Computer Science**.
 
 I enjoy challenging myself with diverse projects, especially games! From the very first turn-based RPG I made in **Pascal**, to the space shooter I made in **Java**, and the 2D survival game I made in **Javascript**, to name a few. 
