@@ -4,7 +4,7 @@ I am **Ravin Panday**, a Guyanese **Web Developer** (specializing in front-end w
 
 I enjoy challenging myself with diverse projects, especially games! From the very first turn-based RPG I made in **Pascal**, to the space shooter I made in **Java**, and the 2D survival game I made in **Javascript**, to name a few. 
 
-In 2023, I focused on strengthening my fundamental skills in **HTML**, **CSS**, and **JavaScript** before getting familiar with quite a few modern technologies. These include **React**, **React Router**, **Typescript**, **SASS**, **Jasmine**, **Webpack**, **Vite**, **Node.js**, and **Express.js**. 
+In 2023, I focused on strengthening my fundamental skills in **HTML**, **CSS**, and **JavaScript** before getting familiar with quite a few modern technologies. These include **React**, **React Router**, **TypeScript**, **SASS**, **Jasmine**, **Webpack**, **Vite**, **Node.js**, and **Express.js**. 
 
 During this time, I was consistently exposed to **RESTful APIs**, having both used and built them. My process throughout my learning journey was, "Learn some tech, then build something with it." You can peek at some of what I built right here on **Github**!
 
